@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SheetLock",
+    "description": "Protect Excel sheets",
+    "package": "com.nchitimilla.sheetlock",
+    "icon": "https://nchitimilla.github.io/icons/sheetlock.png",
+    "priority": 8,
+    "enabled": false
+  },
+  {
+    "name": "RuleSelf",
+    "description": "Digital Discipline",
+    "package": "com.nchitimilla.ruleself",
+    "icon": "https://nchitimilla.github.io/icons/ruleself.png",
+    "priority": 9,
+    "enabled": false
+  },
+  {
+    "name": "SnapHome",
+    "description": "Warranty Tracker",
+    "package": "com.nchitimilla.snaphome",
+    "icon": "https://nchitimilla.github.io/icons/snaphome.png",
+    "priority": 10,
+    "enabled": true
+  }
+]
