@@ -12,8 +12,8 @@
     "description": "Digital Discipline",
     "package": "com.nchitimilla.ruleself",
     "icon": "http://nchitimilla.github.io/icons/ruleself.png",
-    "priority": 9,
-    "enabled": false
+    "priority": 10,
+    "enabled": true
   },
   {
     "name": "SnapHome",
